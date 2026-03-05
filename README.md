@@ -86,8 +86,7 @@ https://github.com/hazemibrahim4
 
 ## 📊 Power BI Dashboard
 
-![Sales Dashboard](dashboard.png)
-
+![Sales Dashboard](dashboard.png.png)
 
 ## 🧠 Skills
 
