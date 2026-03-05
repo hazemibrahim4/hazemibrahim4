@@ -92,6 +92,15 @@ https://github.com/hazemibrahim4
 
 ![Dashboard](Screenshot%20(240).png)
 
+## 🎓 Certifications
+
+- 📊 Data Analysis Training – NTI  
+- 🛠 Data Engineering Training – ITI  
+- 📈 Data Analysis – Creativa  
+- 🐍 Python Programming – MaharaTech  
+- 🌐 Introduction to Networks – Cisco (CCNA)  
+- 💻 Microsoft Data Analysis Training
+
 ## 🧠 Skills
 
 Python  
