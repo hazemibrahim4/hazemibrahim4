@@ -29,6 +29,61 @@ Hi 👋 I'm Hazem Ibrahim
 🚀 Interested in Data Science & Machine Learning  
 
 ---
+## ⭐ Featured Data Analysis Projects
+
+### 📊 E-Commerce Sales Dashboard
+
+* Data Cleaning using SQL
+* Built a complete data model
+* Created **15+ DAX measures**
+* Interactive Power BI dashboard
+* Reduced reporting time by **40%**
+
+🔗 Project Link
+https://github.com/hazemibrahim4
+
+---
+
+### 📈 Customer Segmentation Analysis
+
+* Performed exploratory data analysis
+* Built customer clusters using Python
+* Identified high-value customers
+* Created visualizations with Matplotlib & Seaborn
+
+---
+
+## ⭐ Featured Data Analysis Projects
+
+### 📊 E-Commerce Sales Dashboard
+
+* Data Cleaning using SQL
+* Built a complete data model
+* Created **15+ DAX measures**
+* Interactive Power BI dashboard
+* Reduced reporting time by **40%**
+
+🔗 Project Link
+https://github.com/hazemibrahim4
+
+---
+
+### 📈 Customer Segmentation Analysis
+
+* Performed exploratory data analysis
+* Built customer clusters using Python
+* Identified high-value customers
+* Created visualizations with Matplotlib & Seaborn
+
+---
+
+### 📊 Marketing Campaign Analysis
+
+* Analyzed campaign performance metrics
+* Built KPIs and dashboards
+* Provided actionable insights for marketing teams
+
+
 
 ## 🧠 Skills
 
