@@ -123,7 +123,8 @@ https://www.linkedin.com/in/hazem-ibrahim-1684bb38a
 
 ## ⭐ Featured Projects
 
-### 📊 Sales Analysis Dashboard
-Power BI dashboard analyzing sales performance and profitability.
+## ⭐ Featured Projects
 
-🔗 https://github.com/hazemibrahim4/powerbi-sales-dashboard
+<a href="https://github.com/hazemibrahim4/powerbi-sales-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazemibrahim4&repo=powerbi-sales-dashboard&theme=tokyonight" />
+</a>
