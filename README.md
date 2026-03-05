@@ -88,6 +88,10 @@ https://github.com/hazemibrahim4
 
 ![Sales Dashboard](dashboard.png.png)
 
+## 📊 Dashboard Preview
+
+![Dashboard](Screenshot%20(240).png)
+
 ## 🧠 Skills
 
 Python  
