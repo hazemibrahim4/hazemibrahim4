@@ -84,6 +84,10 @@ https://github.com/hazemibrahim4
 * Provided actionable insights for marketing teams
 
 
+## 📊 Power BI Dashboard
+
+![Sales Dashboard](dashboard.png)
+
 
 ## 🧠 Skills
 
