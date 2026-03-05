@@ -120,3 +120,10 @@ LinkedIn:
 https://www.linkedin.com/in/hazem-ibrahim-1684bb38a
 
 ![snake gif](https://github.com/hazemibrahim4/hazemibrahim4/blob/output/github-contribution-grid-snake.svg)
+
+## ⭐ Featured Projects
+
+### 📊 Sales Analysis Dashboard
+Power BI dashboard analyzing sales performance and profitability.
+
+🔗 https://github.com/hazemibrahim4/powerbi-sales-dashboard
